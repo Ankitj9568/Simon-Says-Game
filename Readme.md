@@ -33,4 +33,4 @@ Simon Says Game 🎮
 
   🖼️ Screenshots
     
-    ![Alt text](Screenshot (19).png)
+    !Beginning Image (Screenshot (19).png)

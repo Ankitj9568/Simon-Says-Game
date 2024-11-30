@@ -33,4 +33,4 @@ Simon Says Game 🎮
 
   🖼️ Screenshots
     
-    !Beginning Image (Screenshot (19).png)
+    Beginning Image (https://github.com/Ankitj9568/Simon-Says-Game/blob/e766f7f724e680f567a376541f3f645dff6bf6fa/Screenshot%20(19).png)

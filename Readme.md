@@ -34,3 +34,9 @@ Simon Says Game 🎮
   🖼️ Screenshots
     
     Beginning Image (https://github.com/Ankitj9568/Simon-Says-Game/blob/e766f7f724e680f567a376541f3f645dff6bf6fa/Screenshot%20(19).png)
+
+    Game Over (https://github.com/Ankitj9568/Simon-Says-Game/blob/784b5d372926ad014b62465fbd85c84c9ef687b3/Screenshot%20(23).png)
+
+    Level Counter (https://github.com/Ankitj9568/Simon-Says-Game/blob/784b5d372926ad014b62465fbd85c84c9ef687b3/Screenshot%20(26).png)
+
+    Colour Blink (https://github.com/Ankitj9568/Simon-Says-Game/blob/784b5d372926ad014b62465fbd85c84c9ef687b3/Screenshot%20(26).png)

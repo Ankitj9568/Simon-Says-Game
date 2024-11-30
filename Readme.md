@@ -19,3 +19,6 @@ Simon Says Game 🎮
   3) Click on the colors in the same order as displayed.
   4) Each correct sequence increases the level and adds a new color to the sequence.
   5) If you make a mistake, the game ends, and you can restart to try again.
+
+  🖼️ Screenshots
+    
